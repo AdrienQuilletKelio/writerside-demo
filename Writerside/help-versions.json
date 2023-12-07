@@ -1,4 +1,4 @@
 [
-  {"version":"Azura","url":"/docs/azura/","isCurrent":false},
-  {"version":"Bezoar","url":"/docs/bezoar/","isCurrent":true}
+  {"version":"Azura","url":"/azura/","isCurrent":false},
+  {"version":"Bezoar","url":"/bezoar/","isCurrent":true}
 ]
